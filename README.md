@@ -5,5 +5,4 @@ A python script built to move movies into folders that have the name of the movi
 ## Potental Improvments 
 
  - Add Support to find if something is part of a series and put those files in the same folder
-- CLI and GUI support?
-- 
+ - CLI and GUI support?
